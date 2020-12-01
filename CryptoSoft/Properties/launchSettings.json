@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CryptoSoft": {
+      "commandName": "Project",
+      //"commandLineArgs": "--source D:\\CESI\\data\\cryptosoft\\bismarck.mp3 --destination D:\\CESI\\data\\cryptosoft\\Cbismarck.mp3 --key D:\\CESI\\data\\cryptosoft\\key.txt"
+      "commandLineArgs": "--source D:\\CESI\\data\\cryptosoft\\Cbismarck.mp3 --destination D:\\CESI\\data\\cryptosoft\\Dbismarck.mp3 --key D:\\CESI\\data\\cryptosoft\\key.txt"
+    }
+  }
+}
