@@ -1,10 +1,10 @@
 CryptoSoft
 ==========
-Simple XOR encrypt/decrypt software in .NET
+Simple XOR encrypt/decrypt software in .NET Core 3.1
 
 Encryption key
 --------------
-The software requires an encryption key in form of a text file. The key mus be 8 characters long (64 bits)
+The software requires an encryption key form of a text file. The key mus be 8 characters long (64 bits)
 
 Arguments
 ---------
